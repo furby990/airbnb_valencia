@@ -1,0 +1,21 @@
+# Data files (too large for GitHub)
+data/raw/
+data/processed/*.csv
+data/processed/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Reports (generated)
+reports/figures/
+
+# OS
+.DS_Store
+Thumbs.db
